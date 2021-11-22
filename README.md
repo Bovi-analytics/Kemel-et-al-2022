@@ -4,7 +4,7 @@ This is a notebook for the <em>Neospora</em> data of Kemel et al. (2022).
 
 ## Data manipulation 
 
-Code for the data manipulation is found here: [Data manipulation](.\Code\DataManipulation.md)
+Code for the data manipulation is found here [Data manipulation](.\Code\DataManipulation.md)
 
 
 ## Model building 
